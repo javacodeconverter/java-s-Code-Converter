@@ -1,0 +1,6 @@
+{
+  "name": "java's Code Converter",
+  "description": "Convert languages and detect errors in real time with a black and orange style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
